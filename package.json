@@ -1,0 +1,15 @@
+{
+  "name": "achievement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "vuepress": "^1.9.7",
+    "vuepress-theme-vt": "^0.5.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
