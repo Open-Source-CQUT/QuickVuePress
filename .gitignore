@@ -3,9 +3,11 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+node_modules/
+docs/.vuepress/dist
 # Other files and folders
 .settings/
+./yarn-error.log
 
 # Executables
 *.swf
